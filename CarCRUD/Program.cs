@@ -1,4 +1,4 @@
-﻿namespace StudentCRUD
+﻿namespace CarCRUD
 {
     internal class Program
     {
